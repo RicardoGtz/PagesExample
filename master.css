@@ -1,0 +1,56 @@
+body{
+  background:rgba(0,0,0,0.4);
+  background: url(notebook.png);
+}
+h1{
+  color: #48be45;
+  text-shadow: 2px 2px #FF0000;
+  font-family: fantasy;
+  font-style: normal;
+  font-weight:lighter;
+  text-align: center;
+  font-size: 3em;
+}
+h2{
+  color: rgb(48, 148, 79);
+}
+h3{
+  
+}
+ol a{
+  color: rgb(73, 75, 209);
+}
+
+aside>ol{
+  color: rgb(47, 129, 3);
+  font-style: oblique;
+}
+aside ol ul{
+  color: rgb(14, 138, 16);
+  font-weight: bold;
+}
+#primero:first-letter{
+  font-size: 1.5em;
+  color: rgb(212, 24, 69)
+}
+#temario table{
+  background-color: hsla(198, 100%, 28%, 0.66);
+  font-size: 1.1em;
+}
+
+nav{
+  font-style: italic;
+  font-weight: bold;
+}
+
+article p{
+  font-style: oblique;
+  font-weight: lighter;
+  color: rgb(69, 80, 41);
+}
+
+.pie{
+  background: #8d8f8e;
+
+  padding: 0.3em;
+}
